@@ -8,7 +8,6 @@ Este projeto tem como propósito a criação de um site simples, empregando as p
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## Licença
 
